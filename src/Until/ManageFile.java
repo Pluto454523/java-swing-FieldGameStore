@@ -7,6 +7,8 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.Base64;
 
+//- Easy to use "Manage File" by Sama Ham (fb.com/csnp.ch)
+
 public class ManageFile {
 
     private String[][] data;
