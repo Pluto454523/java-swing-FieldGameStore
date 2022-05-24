@@ -1,0 +1,14 @@
+1,Corban Bullock,Pannawat Imsin,Counter-Strike Global Offensive,349,18/05/2565
+2,Khalil Orr,Nawin Khamchun,Counter-Strike Global Offensive,349,18/05/2565
+3,Rhiana Mccarty,Pannawat Imsin,Counter-Strike Global Offensive,349,19/05/2565
+4,Stan Albert,Nawin Khamchun,Counter-Strike Global Offensive,349,19/05/2565
+5,Geoffrey Dickens,Pannawat Imsin,Counter-Strike Global Offensive,349,20/05/2565
+6,Willem Hines,Nawin Khamchun,Counter-Strike Global Offensive,349,20/05/2565
+7,Luis Giles,Pannawat Imsin,Counter-Strike Global Offensive,349,21/05/2565
+8,Lina Nicholson,Nawin Khamchun,Counter-Strike Global Offensive,349,21/05/2565
+9,Maxim Mckenna,Pannawat Imsin,Counter-Strike Global Offensive,349,22/05/2565
+10,Shaunie Cabrera,Nawin Khamchun,Counter-Strike Global Offensive,349,22/05/2565
+11,Inaaya Novak,Pannawat Imsin,Counter-Strike Global Offensive,349,23/05/2565
+12,Iosif Sexton,Nawin Khamchun,Counter-Strike Global Offensive,349,23/05/2565
+13,Zidan Michael,Pannawat Imsin,Counter-Strike Global Offensive,349,24/05/2565
+14,Donovan Ramirez,Nawin Khamchun,Counter-Strike Global Offensive,349,24/05/2565

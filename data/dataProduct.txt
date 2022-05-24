@@ -1,0 +1,19 @@
+1,Audition,Free,img/game/audition.png
+2,Counter-Strike Global Offensive,349,img/game/csgo.png
+3,Dota 2,Free,img/game/dota.jpg
+4,Dragonball,45,img/game/dragonball.png
+5,Farming Simulator,225,img/game/farm.jpg
+6,FIFA 2022,1059,img/game/fifa.jpg
+7,FORZA HORIZON 4,1549,img/game/forza4.jpg
+8,Grand Therf Auto V,350,img/game/gta.jpg
+9,SUPER MARIO PARTY,345,img/game/mario1.jpg
+10,PAYDAY 2,35,img/game/payday2.jpg
+11,Point Blank,Free,img/game/point blank.png
+12,Special Force,Free,img/game/SF.png
+13,Valorant,Free,img/game/valo1.jpg
+14,WarCraft,Free,img/game/warcraft.png
+15,X-SHOT,Free,img/game/xshot.png
+16,FIFA 2022,1059,img/game/fifa.jpg
+17,FORZA HORIZON 4,1549,img/game/forza4.jpg
+18,Grand Therf Auto V,350,img/game/gta.jpg
+19,SUPER MARIO PARTY,345,img/game/mario1.jpg
